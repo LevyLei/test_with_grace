@@ -20,6 +20,6 @@ Project:
   5:
    Uri: 'urn:FTOptix:UI'
    Module: FTOptix.UI
-   Version: 8.1
+   Version: 8.2
  Nodes:
  - File: Nodes/test_with_grace.yaml
