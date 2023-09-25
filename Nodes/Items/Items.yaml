@@ -1,10 +1,10 @@
 Name: Items
 Type: FolderType
 Children:
-- Name: TextBox1
+- Name: Box1
   Type: ObjectLibraryItem
   Children:
-  - Name: TextBox1
+  - Name: Box1
     Id: g=2d7a611b3d1e6a63e9d141b0a923c9ff
     Supertype: TextBox
     ReferenceType: HasComponent
